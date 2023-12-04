@@ -1,0 +1,14 @@
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.exe
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.deps.json
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.runtimeconfig.json
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.dll
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.pdb
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.AssemblyInfoInputs.cache
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.AssemblyInfo.cs
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.dll
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\refint\Frågesport.dll
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.pdb
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.genruntimeconfig.cache
+C:\Users\elev\Documents\prog\Frågesport\Frågesport\obj\Debug\net8.0\ref\Frågesport.dll
